@@ -1,0 +1,6 @@
+export const ACTIONS = {
+  ADD: "ADD_TASK",
+  REMOVE: "REMOVE_TASK",
+  TOGGLE: "TOGGLE_TASK",
+  SET: "SET_TASKS",
+};
